@@ -2,3 +2,4 @@ parts/
 *.snap
 snap/
 stage/
+phantomjs-*.tar.bz2
